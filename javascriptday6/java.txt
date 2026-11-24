@@ -1,0 +1,8 @@
+
+Core Features
+
+• Servers and Channels. Communities are organized into invite-only or public spaces called servers, which are split into dedicated channels for specific text topics or drop-in voice chats.
+• Screen Sharing and Streaming. Users can stream gameplay, watch videos together, or share their screens in low-latency voice channels.
+• Direct Messaging. Beyond servers, you can send private text messages, share files, and start voice or video calls directly with friends.
+• Customization and Bots. Server owners can assign custom roles, add automated moderation or music bots, and upload custom emojis and soundboard effects.
+• Cross-Platform Access. It works seamlessly across Windows, macOS, Linux, iOS, Android, web browsers, and major gaming console
